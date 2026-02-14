@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "嫌い",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-14T08:03:58.535339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嫌い",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_嫌い_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Manny 嫌い",
+      "artist": "Devon Hendryx",
+      "has_synced": true,
+      "path": "select/02_Manny_嫌い_Devon_Hendryx.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好き♡嫌い",
+      "artist": "麻田華子",
+      "has_synced": false,
+      "path": "select/03_好き♡嫌い_麻田華子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嫌い",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_嫌い_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
